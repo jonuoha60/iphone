@@ -12,6 +12,9 @@ This project recreates the feel of an iPhone interface on a desktop using Python
 
 - **Calculator App**  
   Perform basic arithmetic calculations with a simple and clean iPhone-style calculator interface.
+  
+- **Photos**  
+ Takes a real-time photo image that automatically saves to the asset folder.
 
 - **Weather App**  
   Displays weather information in an easy-to-read mobile-inspired UI.
