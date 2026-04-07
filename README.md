@@ -10,25 +10,25 @@ This project recreates the feel of an iPhone interface on a desktop using Python
 
 ## ✨ Features
 
-- 🧮 **Calculator App**  
+- **Calculator App**  
   Perform basic arithmetic calculations with a simple and clean iPhone-style calculator interface.
 
-- 🌤️ **Weather App**  
+- **Weather App**  
   Displays weather information in an easy-to-read mobile-inspired UI.
 
-- 📝 **Notes App**  
+- **Notes App**  
   Create, save, and manage notes just like the Notes application on an iPhone.
 
-- 👥 **Contact Book**  
+- **Contact Book**  
   Add, edit, search, and organize contacts.
 
-- ⏰ **Alarm Clock**  
+- **Alarm Clock**  
   Set alarms and reminders with time-based notifications.
 
-- 😀 **Face Recognition**  
+- **Face Recognition**  
   Uses Python face recognition libraries to detect and recognize faces for secure access and interactive features.
 
-- 📱 **iPhone-Like Interface**  
+- **iPhone-Like Interface**  
   Built with Tkinter to visually resemble a mobile application environment.
 
 ---
@@ -43,7 +43,7 @@ This project recreates the feel of an iPhone interface on a desktop using Python
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ---
 
 
-## 🎯 Purpose
+## Purpose
 
 This project was built to demonstrate how Python and Tkinter can be used to create **GUI-based desktop applications that simulate real-world mobile apps**.
 
