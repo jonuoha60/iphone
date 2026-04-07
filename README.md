@@ -5,6 +5,7 @@ A Python desktop application built with **Tkinter** that mimics core iPhone appl
 This project recreates the feel of an iPhone interface on a desktop using Python, featuring popular built-in apps such as Calculator, Weather, Notes, Contacts, Alarm, and Face Recognition.
 
 ---
+<img width="597" height="718" alt="Screenshot 2026-04-07 005742" src="https://github.com/user-attachments/assets/9667aab0-5d13-4401-8781-a55920e4409f" />
 
 
 ## ✨ Features
